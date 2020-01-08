@@ -3,6 +3,7 @@ package sarat;
 public class Human {
 
 	// static properties
+	//accessmodifier keyword(static/nonstatic) datatype variablename
 	public static int hand=2;
 	public static int leg=2;
 	public static int finger=5;
